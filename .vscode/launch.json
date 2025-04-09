@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://www.linkedin.com/in/kamal-dev-kumar-206843230/
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open tripura.html",
+            "file": "e:\\TRAVEL PLANNER\\safar-master\\tripura.html"
+        }
+    ]
+}
